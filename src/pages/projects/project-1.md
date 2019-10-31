@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Project Title 1 Awesome
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_img_path: images/1_thumb.jpg
